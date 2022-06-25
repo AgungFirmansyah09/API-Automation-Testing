@@ -1,0 +1,8 @@
+api\stepdef\registerStepdef.class
+api\services\registerService.class
+api\stepdef\loginStepdef.class
+api\stepdef\UserStepdef.class
+CucumberTestSuite.class
+api\services\userService.class
+api\stepdef\ValidationStep.class
+api\services\loginService.class

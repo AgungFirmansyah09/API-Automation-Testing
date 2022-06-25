@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User Transaction","POST Create user Successfully","SUCCESS","2022-06-25T15:03:23.81+07:00[Asia/Bangkok]","0.0","0.74"
+"User Transaction","PUT Update user Successfully","SUCCESS","2022-06-25T15:03:24.545+07:00[Asia/Bangkok]","0.0","0.74"
+"User Transaction","GET list User Successfully","SUCCESS","2022-06-25T15:03:25.28+07:00[Asia/Bangkok]","0.0","0.31"
+"User Transaction","GET Single User Successfully","SUCCESS","2022-06-25T15:03:25.593+07:00[Asia/Bangkok]","0.0","0.48"
+"User Transaction","DELETE user Successfully","SUCCESS","2022-06-25T15:03:26.077+07:00[Asia/Bangkok]","0.0","0.64"
